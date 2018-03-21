@@ -56,6 +56,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	  new TextFieldExample();  
+    	  new TextFieldExample();
+    	  System.out.println("this is test");
     }
 }
